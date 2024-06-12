@@ -1,0 +1,1 @@
+export const CRAWL_URL = ' https://api.waifu.pics/many/sfw/waifu';
